@@ -65,15 +65,6 @@ streamlit run app.py
 
 ---
 
-## Example Output
-| Stock | Recommendation |
-|:------|:----------------|
-| AAPL  | Strong Buy      |
-| MSFT  | Hold            |
-| GOOG  | Weak Sell       |
-
----
-
 ## License
 This project is open-source and free to use for learning or non-commercial purposes.
 
